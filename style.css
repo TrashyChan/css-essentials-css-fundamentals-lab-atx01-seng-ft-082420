@@ -29,6 +29,7 @@ img {
 }
 
 #details {
-  display: horizontal;
+  display: block;
+  float: left;
   text-align: center;
 }
