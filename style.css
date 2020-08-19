@@ -9,6 +9,7 @@ h1 {
 }
 
 nav > a {
+  position: relative;
   padding: 10px;
   background: #DBDAD9;
 }
