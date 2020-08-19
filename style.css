@@ -23,6 +23,7 @@ img {
 }
 
 #featured-property {
+  vertical-align: top;
   text-align: center;
   width: 50%;
 }
