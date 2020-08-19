@@ -22,7 +22,7 @@ img {
   left: 45%;
 }
 
-#featured-property {
+.featured-property {
   vertical-align: top;
   text-align: center;
   width: 50%;
