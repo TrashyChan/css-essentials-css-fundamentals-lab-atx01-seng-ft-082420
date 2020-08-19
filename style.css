@@ -13,6 +13,5 @@ nav > a {
   vertical-align: top;
   display: inline-block;
   text-align: center;
-  margin-left: 450px;
-  margin-right: 450px;
+  margin: 500px;
 }
