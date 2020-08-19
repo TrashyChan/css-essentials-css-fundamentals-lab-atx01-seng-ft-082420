@@ -24,5 +24,7 @@ img {
 }
 
 #featured-property {
-  
+  vertical-align: top;
+  display: inline-block;
+  text-align: center;
 }
