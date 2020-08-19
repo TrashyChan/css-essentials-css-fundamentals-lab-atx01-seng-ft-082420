@@ -10,7 +10,8 @@ nav > a {
 }
 
 #featured-property {
-  margin: auto;
-  
-  border: 3px green;
+  vertical-align: top;
+  display: inline-block;
+  text-align: center;
+  width: 120px;
 }
