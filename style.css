@@ -32,4 +32,5 @@ img {
   display: block;
   float: left;
   text-align: center;
+  background: red;
 }
